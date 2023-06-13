@@ -1,3 +1,3 @@
 # AccountSystem
 
-Exceções - Atividade prática
+Exception - practical activity
